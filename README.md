@@ -13,12 +13,12 @@
 Building projects around SQL, Python, and Power BI while working through a self-directed   
 Data Analyst roadmap. Active in GDG Pune, GDG Cloud Pune, and the NVIDIA Developer Program.
 
- > &nbsp;I'm currently working on **AI/ML Summer Internship at IICT — NLP projects on fake news &amp; phishing email detection**  
- > &nbsp;I'm currently learning **Advanced SQL, Python/pandas, and Power BI through a self-directed Data Analyst roadmap**  
- > &nbsp;I'm looking to collaborate on **Data analytics and Power BI dashboard projects**  
- > &nbsp;I'm looking for help with **Breaking into a Data Analyst / ML Engineer role at a product company**  
- > &nbsp;Ask me about **SQL, Power BI, Azure (AZ-900/DP-900), or data analytics**  
- > &nbsp;Pronouns: **he/him**
+ &nbsp;I'm currently working on **AI/ML Summer Internship at IICT — NLP projects on fake news &amp; phishing email detection**  
+ &nbsp;I'm currently learning **Advanced SQL, Python/pandas, and Power BI through a self-directed Data Analyst roadmap**  
+ &nbsp;I'm looking to collaborate on **Data analytics and Power BI dashboard projects**  
+ &nbsp;I'm looking for help with **Breaking into a Data Analyst / ML Engineer role at a product company**  
+ &nbsp;Ask me about **SQL, Power BI, Azure (AZ-900/DP-900), or data analytics**  
+ &nbsp;Pronouns: **he/him**
 
 ### Tech Stack
 
