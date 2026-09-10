@@ -8,19 +8,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=745&height=44&lines=B.Tech%20Computer%20Engineering%20(AI%20%26%20Data%20Science);Aspiring%20Data%20Analyst%20%2F%20ML%20Engineer" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Building projects around SQL, Python, and Power BI while working through a self-directed   
 Data Analyst roadmap. Active in GDG Pune, GDG Cloud Pune, and the NVIDIA Developer Program.
 
-🔭 &nbsp;I'm currently working on **AI/ML Summer Internship at IICT — NLP projects on fake news &amp; phishing email detection**  
-🌱 &nbsp;I'm currently learning **Advanced SQL, Python/pandas, and Power BI through a self-directed Data Analyst roadmap**  
-👯 &nbsp;I'm looking to collaborate on **Data analytics and Power BI dashboard projects**  
-🤔 &nbsp;I'm looking for help with **Breaking into a Data Analyst / ML Engineer role at a product company**  
-💬 &nbsp;Ask me about **SQL, Power BI, Azure (AZ-900/DP-900), or data analytics**  
-😄 &nbsp;Pronouns: **he/him**
+ &nbsp;I'm currently working on **AI/ML Summer Internship at IICT — NLP projects on fake news &amp; phishing email detection**  
+ &nbsp;I'm currently learning **Advanced SQL, Python/pandas, and Power BI through a self-directed Data Analyst roadmap**  
+ &nbsp;I'm looking to collaborate on **Data analytics and Power BI dashboard projects**  
+ &nbsp;I'm looking for help with **Breaking into a Data Analyst / ML Engineer role at a product company**  
+ &nbsp;Ask me about **SQL, Power BI, Azure (AZ-900/DP-900), or data analytics**  
+ &nbsp;Pronouns: **he/him**
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -44,30 +44,30 @@ Data Analyst roadmap. Active in GDG Pune, GDG Cloud Pune, and the NVIDIA Develop
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
-### 🔗 Connect With Me
+### Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/prathamesh-chaumwal-168512375" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=KAISER-bmr&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=KAISER-bmr&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KAISER-bmr&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/KAISER-bmr">KAISER-bmr</a></i></p>
+<p align="center"><i> From <a href="https://github.com/KAISER-bmr">KAISER-bmr</a></i></p>
